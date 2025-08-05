@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kunvuthi
-- 👀 I’m a first year university student in University of Bath.
+- 👀 I’m in my final year at University of Bath doing BSc Maths, Stats, and Data Science.
 - 🌱 I’m currently learning Data Science and applying statistical methods to real world problems!
 
 <!---
