@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunvuthi
-- 👀 I’m in my final year at University of Bath doing BSc Maths, Stats, and Data Science.
-- 🌱 I’m currently learning Data Science and applying statistical methods to real world problems!
+- 👀 I’m a fresh graduate from University of Bath with a BSc Maths, Statistics, and Data Science degree.
+- 📚 I’m currently pursuing a postgraduate degree in Financial Risk Management from UCL. 
 
 <!---
 Kunvuthi/Kunvuthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
